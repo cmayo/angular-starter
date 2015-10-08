@@ -7,7 +7,6 @@ angular.module('starter', ['ui.router','templates','ngResource','ui.bootstrap', 
         $stateProvider
 
             .state('app', {
-                url: "/app",
                 abstract: true,
                 templateUrl: "menu.html",
                 controller: 'AppController'

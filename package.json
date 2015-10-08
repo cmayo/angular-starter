@@ -1,0 +1,21 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "app",
+    "dependencies": {
+        "gulp": "latest",
+        "gulp-less": "latest",
+        "gulp-angular-filesort": "latest",
+        "gulp-concat": "latest",
+        "gulp-minify-css": "latest",
+        "gulp-uglify": "latest",
+        "gulp-rename": "latest",
+        "gulp-ng-annotate": "latest",
+        "gulp-minify-html": "latest",
+        "gulp-ng-html2js": "latest"
+    },
+    "devDependencies": {
+        "bower": "^1.3.3",
+        "gulp-util": "^2.2.14"
+    }
+}

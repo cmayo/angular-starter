@@ -1,0 +1,16 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-animate": "~1.4.7",
+    "angular-ui-router": "~0.2.15",
+	"angular-resource": "~1.4",
+	"angular-sanitize": "~1.4",
+    "angular-bootstrap": "~0.13.4" ,
+    "bootstrap": "~3.3.5"
+  }
+}
